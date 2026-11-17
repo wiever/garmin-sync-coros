@@ -2,7 +2,7 @@ name: garmin-sync-coros
 
 on:
   workflow_dispatch:
-  schedule: []
+ # schedule:
    # - cron: '0 1,8,21 * * ?'
 env:
   GITHUB_NAME: wiever
